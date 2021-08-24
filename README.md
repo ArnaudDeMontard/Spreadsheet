@@ -1,2 +1,2 @@
-# Spredsheet
+# Spreadsheet
 spreadsheet utilities
